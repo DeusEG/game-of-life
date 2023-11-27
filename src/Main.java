@@ -8,9 +8,7 @@ public class Main {
                                 {"-", "-", "-", "-", "*", "-", "-", "-", "-", "-"},
                                 {"-", "-", "-", "-", "-", "-", "-", "-", "-", "-"},
                                 {"-", "-", "-", "-", "-", "-", "-", "-", "-", "-"}};
- //       String[][] testGrid = {{"-", "-", "-"},
- //                               {"*", "*", "*"},
- //                               {"-", "-", "-"}};
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Hello! is a GameOfLife. " + "\n" +

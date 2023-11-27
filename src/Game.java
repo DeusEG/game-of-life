@@ -1,16 +1,13 @@
 import java.util.Scanner;
-import java.util.Random;
 
 
 public class Game {
 
     Scanner scanner = new Scanner(System.in);
-//    Random random = new Random();
     private int row;
     private int col;
     private String[][] genGrid;
     private static final String aliveCell = "*";
-//    private static final String deadCell = "-";
 
     public String[][] getGenGrid() {
         return genGrid;
