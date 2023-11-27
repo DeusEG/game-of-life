@@ -1,3 +1,5 @@
+package com.deus;
+
 import java.util.Scanner;
 
 

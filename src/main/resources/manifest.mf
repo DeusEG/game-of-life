@@ -1,0 +1,2 @@
+main-class: com.deus.Main
+class-path: d:/java_school/game-of-life/src/main/java

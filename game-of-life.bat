@@ -1,2 +1,2 @@
-java -cp game-of-life.jar Main
+java -jar game-of-life.jar
 pause
